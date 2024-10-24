@@ -11,6 +11,6 @@ FPS Display: Displays the current frames per second (FPS) on the screen for perf
 
 Installation Prerequisites:Python 3.x,OpenCV,Mediapipe,PyAutoGUI
 
-Clone this Repository using this command: git clone https://github.com/<Narsimha1609>/<Cursor-Control-Using-Hand>.git
+Clone this Repository using this command: git clone https://github.com/Narsimha1609/Cursor-Control-Using-Hand.git
 
 Install Required Packages using this Command: pip install opencv-python mediapipe pyautogui
